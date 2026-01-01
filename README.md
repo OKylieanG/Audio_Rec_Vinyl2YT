@@ -28,10 +28,8 @@ Professional audio recorder with manual hotkey control, automatic silence-based 
 
 ## Installation
 
-**Three versions available:**
-- `audio_recorder.py` - Basic version (no RX11, no monitoring)
-- `audio_recorder_rx11.py` - Adds RX11 integration
-- `audio_recorder_armed.py` - Full version with ARM monitoring + RX11 + YouTube video creation (recommended)
+
+- `audio_recorder_2_YT.py` - Full version with ARM monitoring + RX11 + YouTube video creation (recommended)
 
 **Bonus utility:**
 - `audio_device_diagnostics.py` - Test your audio devices before using the recorder
